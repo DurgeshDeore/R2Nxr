@@ -40,7 +40,7 @@ My personal portfolio showcasing my skills, projects, and achievements. Built wi
 ## 🏆 Achievements & Certifications
 
 - **Certified Web Developer** - 
-- **Top 192% in Greeks For Greeks **  
+- **Top 192 in Greeks For Greeks **  
 - **Winner of the 2023 Robotics Competition**  
 
 ---
